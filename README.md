@@ -12,7 +12,7 @@ It's going to be #August from tomorrow and I'd like to invite you all to celebra
    
    🎮During this marathon of Python i.e. #Augusthon , I'll walk you through all the concepts in Python 
 
->> from basics of Python like 
+from basics of Python like 
 
    🛹variables
 
@@ -20,7 +20,7 @@ It's going to be #August from tomorrow and I'd like to invite you all to celebra
 
    🛷dictionaries, etc
 
->> to the advance concepts like 
+to the advance concepts like 
 
    ⚽Web Scrapping
      
@@ -28,7 +28,7 @@ It's going to be #August from tomorrow and I'd like to invite you all to celebra
      
    🪀MongoDB
 
->> We'll also explore some of the popular libraries in Python like 
+We'll also explore some of the popular libraries in Python like 
 
    🐼Pandas
       
