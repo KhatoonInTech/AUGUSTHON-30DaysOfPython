@@ -12,9 +12,9 @@
 
 </div>
 
-[<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
+[<< Day 1](../readme.md) | [Day 3 >>](../03-08-2024_Operators/03_operators.md)
 
-![30DaysOfPython](../02-08-2024-builtin keywords & variables/img/AUGUSTHON Cover.jpg)
+![30DaysOfPython](../img/AUGUSTHON-Cover.jpg)
 
 - [📘 Day 2](#-day-2)
   - [Built in functions](#built-in-functions)
