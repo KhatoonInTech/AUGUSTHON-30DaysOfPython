@@ -14,7 +14,7 @@
 
 [<< Day 1](../readme.md) | [Day 3 >>](../03_Day_Operators/03_operators.md)
 
-![30DaysOfPython](https://drive.google.com/file/d/19M73zwzKCicW9-OqPNHn2VBJyNPCt_ib/view?usp=sharing)
+![30DaysOfPython](../02-08-2024-builtin keywords & variables/img/AUGUSTHON Cover.jpg)
 
 - [📘 Day 2](#-day-2)
   - [Built in functions](#built-in-functions)
