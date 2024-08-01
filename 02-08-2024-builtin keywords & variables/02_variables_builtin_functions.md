@@ -14,7 +14,7 @@
 
 [<< Day 1](../readme.md) | [Day 3 >>](../03-08-2024_Operators/03_operators.md)
 
-![30DaysOfPython](../img/AUGUSTHON-Cover.jpg)
+![30DaysOfPython](../img/AUGUSTHONCover.jpg)
 
 - [📘 Day 2](#-day-2)
   - [Built in functions](#built-in-functions)
