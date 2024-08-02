@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> AUGUSTHON -#30DaysOfPython: Day 2 - Variables, Builtin Functions</h1>
+  <h1> AUGUSTHON -#30DaysOfPython: Day 3 - Operator in Python</h1>
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/khatoonintech/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -7,7 +7,7 @@
 
 <sub>Author:
 <a href="https://www.linkedin.com/in/Khatoonintech/" target="_blank">Ayesha Noreen</a><br>
-<small> AUGUSTHON: 02/08/2024 </small>
+<small> AUGUSTHON: 03/08/2024 </small>
 </sub>
 
 </div>
