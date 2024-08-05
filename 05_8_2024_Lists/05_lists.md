@@ -12,7 +12,7 @@
 
 </div>
 
-[<< Day 4](../04_08-2024_Strings/04_strings.md) | [Day 6 >>](../05_Day_Operators/03_operators.md)
+[<< Day 4](../04_08-2024_Strings/04_strings.md) | [Day 6 >>](../06_08_2024_Tuples/06_tuples.md)
 
 ![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 
@@ -582,4 +582,4 @@ ages = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 4](../04_08-2024_Strings/04_strings.md) | [Day 6 >>](../05_Day_Operators/03_operators.md)
+[<< Day 4](../04_08-2024_Strings/04_strings.md) | [Day 6 >>](../06_08_2024_Tuples/06_tuples.md)
