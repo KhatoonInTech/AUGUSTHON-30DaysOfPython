@@ -12,7 +12,7 @@
 
 </div>
 
-[<< Day 5](../05_08-2024_Lists/04_lists.md) | [Day 7 >>](../06_Day_Operators/03_operators.md)
+[<< Day 5](../05_8_2024_Lists/05_lists.md) | [Day 7 >>](../06_Day_Operators/03_operators.md)
 
 ![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 
@@ -249,4 +249,4 @@ del fruits
   ```
 
 
-[<< Day 5](../05_08-2024_Lists/04_lists.md) | [Day 7 >>](../06_Day_Operators/03_operators.md)
+[<< Day 5](../05_8_2024_Lists/05_lists.md) | [Day 7 >>](../06_Day_Operators/03_operators.md)
