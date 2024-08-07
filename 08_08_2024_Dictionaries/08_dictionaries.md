@@ -12,7 +12,7 @@
 
 </div>
 
-[<< Day 7](../07_08-2024_Sets/07_sets.md) | [Day 9 >>](../09_08_2024_Conditionals/09_conditionals.md)
+[<< Day 7](../07_08_2024_Sets/07_sets.md) | [Day 9 >>](../09_08_2024_Conditionals/09_conditionals.md)
 
 ![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 
@@ -337,4 +337,4 @@ print(values)     # dict_values(['value1', 'value2', 'value3', 'value4'])
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 7](../07_08-2024_Sets/07_sets.md) | [Day 9 >>](../09_08_2024_Conditionals/09_conditionals.md)
+[<< Day 7](../07_08_2024_Sets/07_sets.md) | [Day 9 >>](../09_08_2024_Conditionals/09_conditionals.md)
