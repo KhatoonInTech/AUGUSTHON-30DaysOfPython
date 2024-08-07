@@ -12,7 +12,7 @@
 
 </div>
 
-[<< Day 6](../06_08-2024_Tuples/06_tuples.md) | [Day 8 >>](../08_08_2024_Dictionaries/08_dictionaries.md)
+[<< Day 6](../06_08_2024_Tuples/06_tuples.md) | [Day 8 >>](../08_08_2024_Dictionaries/08_dictionaries.md)
 
 ![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 
@@ -425,4 +425,4 @@ age = [22, 19, 24, 25, 26, 24, 25, 24]
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 6](../06_08-2024_Tuples/06_tuples.md) | [Day 8 >>](../08_08_2024_Dictionaries/08_dictionaries.md)
+[<< Day 6](../06_08_2024_Tuples/06_tuples.md) | [Day 8 >>](../08_08_2024_Dictionaries/08_dictionaries.md)
