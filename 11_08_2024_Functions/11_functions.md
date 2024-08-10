@@ -12,7 +12,7 @@
 
 </div>
 
-[<< Day 10](../010_08_2024_Loopa/10_loops.md) | [Day 12 >>](../12_08_2024_Modules/12_modules.md)
+[<< Day 10](../10_08_2024_Loops/10_loops.md) | [Day 12 >>](../12_08_2024_Modules/12_modules.md)
 
 ![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 
