@@ -12,7 +12,7 @@
 
 </div>
 
-[<< Day 12](../12_08_2024_Functions/12_modules.md) | [Day 14 >>](../14_08_2024_Higher_order_functions/14_higher_order_functions.md)
+[<< Day 12](../12_08_2024_Modules/12_modules.md) | [Day 14 >>](../14_08_2024_Higher_order_functions/14_higher_order_functions.md)
 
 ![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 - [📘 Day 13](#-day-13)
@@ -202,4 +202,4 @@ print(two_power_of_five)  # 32
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 12](../12_08_2024_Functions/12_modules.md) | [Day 14 >>](../14_08_2024_Higher_order_functions/14_higher_order_functions.md)
+[<< Day 12](../12_08_2024_Modules/12_modules.md) | [Day 14 >>](../14_08_2024_Higher_order_functions/14_higher_order_functions.md)
