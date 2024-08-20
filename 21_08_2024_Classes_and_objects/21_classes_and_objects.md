@@ -14,7 +14,7 @@
 
 [<< Day 20](../20_08_2024_Python_package_manager/20_python_package_manager.md) | [Day 22 >>](../22_08_2024_Web_scraping/22_web_scraping.md)
 
-![30DaysOfPython](../images/30DaysOfPython_banner3@2x.png)
+![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 
 - [📘 Day 21](#-day-21)
   - [Classes and Objects](#classes-and-objects)
