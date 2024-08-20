@@ -142,3 +142,9 @@ s2.add_skill('Organizing')
 s2.add_skill('Marketing')
 s2.add_skill('Digital Marketing')
 print(s2.skills)  # Output: ['Organizing', 'Marketing', 'Digital Marketing']
+
+
+
+print('''
+ #Created by: Ayesha Noreen |Follow us on www.linkedin.com/in/khatoonintech | We love #AUGUSTHON 💕
+      ''')
