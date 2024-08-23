@@ -12,7 +12,7 @@
 
 </div>
 
-[<< Day 28](../28_08_2024_API/28_API.md) | [Day 29 >>](../30_08_2024_Conclusions/30_conclusions.md)
+[<< Day 28](../28_08_2024_API/28_API.md) | [Day 30 >>](../30_08_2024_Conclusions/30_conclusions.md)
 
 ![30DaysOfPython](../images/AUGUSTHON_Cover.jpg)
 
@@ -497,4 +497,4 @@ if __name__ == '__main__':
 
 🎉 CONGRATULATIONS ! 🎉
 
-[<< Day 28](../28_08_2024_API/28_API.md) | [Day 29 >>](../30_08_2024_Conclusions/30_conclusions.md)
+[<< Day 28](../28_08_2024_API/28_API.md) | [Day 30 >>](../30_08_2024_Conclusions/30_conclusions.md)
